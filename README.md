@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A beginner rails app to learn the environment
 
-Things you may want to cover:
+Things to cover:
 
-* Ruby version
+* Generating a new rails app
 
-* System dependencies
+* Learning the Basics on MVC and how it works in rails
 
-* Configuration
+* CRUD setup without using scaffolds or generators
 
 * Database creation
 
 * Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
