@@ -1,4 +1,4 @@
-# README
+# Rails Blog App
 
 A beginner rails app to learn the environment
 
