@@ -1,6 +1,6 @@
 # Rails Blog App
 
-A beginner rails app to learn the environment
+A beginner rails app project for personal use to learn the environment
 
 Things to cover:
 
